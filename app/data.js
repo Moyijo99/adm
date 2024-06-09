@@ -27,6 +27,11 @@ export const skills = [
         title: "Back-end Developement",
         info: "Building robust server-side applications, handling data, and ensuring secure functionality."
     },
+    {
+        icon: server,
+        title: "Software Testing",
+        info: "Software testing using Selenium automates web application testing for quality assurance."
+    },
 ];
 
 export const projects = [
